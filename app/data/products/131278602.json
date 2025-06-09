@@ -1,0 +1,43 @@
+{
+    "product_id": "131278602",
+    "product_name": "Feegar BF400 Pro",
+    "stats": {
+        "opinions_count": 33,
+        "pros_count": 13,
+        "cons_count": 1,
+        "pros_cons_count": 0,
+        "average_stars": 4.636363636363637,
+        "pros": {
+            "ease of use": 7,
+            "convenience of use": 7,
+            "sound quality": 7,
+            "efficiency": 6,
+            "quality": 6,
+            "taste": 6,
+            "battery life": 1,
+            "USB-C connector": 1
+        },
+        "cons": {
+            "efficiency": 1,
+            "quality": 1,
+            "taste": 1
+        },
+        "recommendations": {
+            "true": 29,
+            "false": 2,
+            "NaN": 0
+        },
+        "stars": {
+            "0.5": 0,
+            "1.0": 0,
+            "1.5": 1,
+            "2.0": 1,
+            "2.5": 0,
+            "3.0": 1,
+            "3.5": 1,
+            "4.0": 1,
+            "4.5": 2,
+            "5.0": 26
+        }
+    }
+}

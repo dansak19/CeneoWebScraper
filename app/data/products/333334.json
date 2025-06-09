@@ -1,0 +1,38 @@
+{
+    "product_id": "333334",
+    "product_name": "Universal Super Cuts 3 144tabl.",
+    "stats": {
+        "opinions_count": 23,
+        "pros_count": 6,
+        "cons_count": 1,
+        "pros_cons_count": 0,
+        "average_stars": 4.586956521739131,
+        "pros": {
+            "efficiency": 6,
+            "quality": 6,
+            "taste": 6
+        },
+        "cons": {
+            "efficiency": 1,
+            "quality": 1,
+            "taste": 1
+        },
+        "recommendations": {
+            "true": 20,
+            "false": 2,
+            "NaN": 1
+        },
+        "stars": {
+            "0.5": 0,
+            "1.0": 0,
+            "1.5": 1,
+            "2.0": 1,
+            "2.5": 0,
+            "3.0": 0,
+            "3.5": 1,
+            "4.0": 1,
+            "4.5": 1,
+            "5.0": 18
+        }
+    }
+}
